@@ -24,3 +24,11 @@
 
 ### How it works:
 <p align="left"><img src= https://raw.githubusercontent.com/mylesotoole/CompressForGooglePhotos/main/Compress%20For%20Google%20Photos.workflow/Contents/QuickLook/Preview.png width="600"></p>
+
+<hr>
+
+### How to remove:
+- Copy and paste the following command in your terminal:
+```
+rm -rf ~/Library/Services/Compress\ For\ Google\ Photos.workflow/
+```
