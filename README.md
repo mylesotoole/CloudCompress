@@ -5,7 +5,7 @@
 
 <hr>
 
-### How it works:
+### How to use:
 1. Select one to as many images as you desire.
 2. Secondary click and hover over **Quick actions**.
 3. Select **Compress For Google Photos**.
