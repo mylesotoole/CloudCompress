@@ -1,5 +1,5 @@
 ### Dependencies:
-- [ImageOptim](https://imageoptim.com/mac) must be installed
+- [ImageOptim](https://imageoptim.com/mac) must be installed.
 
 <hr>
 
