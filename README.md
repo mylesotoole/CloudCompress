@@ -9,7 +9,7 @@
 1. Select one to as many images as you desire.
 2. Secondary click and hover over **Quick actions**.
 3. Select **Compress For Google Photos**.
-###### _Note:_ This quick action uses the ImageOptim settings that you set within the application.
+###### _Note:_ This quick action uses the compression settings you select within the ImageOptim application.
 
 <p align="left"><img src= README.jpg width="200"></p>
 
