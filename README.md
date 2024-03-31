@@ -1,7 +1,7 @@
 ### Dependencies:
 
 - [ImageOptim](https://imageoptim.com/mac) must be installed.
-###### _Reccomended_: Install **[Homebrew](https://brew.sh/)** and type ```brew install --cask imageoptim``` into your terminal.
+###### _Recommened:_ Use **[Homebrew](https://brew.sh/)** and type ```brew install --cask imageoptim``` into your terminal.
 
 <hr>
 
@@ -16,7 +16,7 @@
 1. Select one to as many images as you desire.
 2. Secondary click and hover over **Quick actions**.
 3. Select **Compress For Google Photos**.
-###### _Note_: This quick action uses the ImageOptim settings that you set within the application.
+###### _Note:_ This quick action uses the ImageOptim settings that you set within the application.
 
 <p align="left"><img src= README.jpg width="200"></p>
 
