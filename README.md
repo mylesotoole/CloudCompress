@@ -11,10 +11,11 @@
 <hr>
 
 ### How it works:
-<p align="left"><img src= README.jpg width="200"></p>
 1. Select one to as many images as you desire.
-2. Secondary click and hover over **Quick actions**
-3. Select **Compress For Google Photos**
+2. Secondary click and hover over **Quick actions**.
+3. Select **Compress For Google Photos**.
+
+<p align="left"><img src= README.jpg width="200"></p>
 
 <hr>
 
