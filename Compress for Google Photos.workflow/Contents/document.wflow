@@ -331,7 +331,7 @@
 		<key>serviceProcessesInput</key>
 		<false/>
 		<key>systemImageName</key>
-		<string>NSTouchBariCloud</string>
+		<string>NSTouchBarColorPickerWheel</string>
 		<key>useAutomaticInputType</key>
 		<false/>
 		<key>workflowTypeIdentifier</key>
