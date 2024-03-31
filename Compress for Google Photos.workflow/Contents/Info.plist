@@ -14,7 +14,7 @@
 			<key>NSMenuItem</key>
 			<dict>
 				<key>default</key>
-				<string>Compress for Google Photos</string>
+				<string>Compress For Google Photos</string>
 			</dict>
 			<key>NSMessage</key>
 			<string>runWorkflowAsService</string>
