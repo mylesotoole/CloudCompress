@@ -1,5 +1,7 @@
 ### Dependencies:
+
 - [ImageOptim](https://imageoptim.com/mac) must be installed.
+###### _Reccomended_: With **[Homebrew](https://brew.sh/)** installed, type ```brew install --cask imageoptim``` into your terminal.
 
 <hr>
 
