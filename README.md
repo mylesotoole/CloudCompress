@@ -5,13 +5,6 @@
 
 <hr>
 
-### How to install:
-1. Double click to extract the file.
-2. Double click the extracted file.
-3. Select **install**.
-
-<hr>
-
 ### How it works:
 1. Select one to as many images as you desire.
 2. Secondary click and hover over **Quick actions**.
