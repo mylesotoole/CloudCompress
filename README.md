@@ -12,7 +12,7 @@
 2. Secondary click and hover over **Quick actions**.
 3. Select **Cloud Compress**.
 
-###### _Note:_ This quick action uses the compression settings you select within the ImageOptim application.
+###### _Note:_ This quick action uses the compression settings you set within the ImageOptim application.
 
 <p align="left"><img src= README.jpg width="400"></p>
 
