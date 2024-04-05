@@ -14,13 +14,13 @@
 
 ###### _Note:_ This quick action uses the compression settings you select within the ImageOptim application.
 
-<p align="left"><img src= README.jpg width="200"></p>
+<p align="left"><img src= README.jpg width="400"></p>
 
 <hr>
 
 ### How it works:
 
-<p align="left"><img src= https://raw.githubusercontent.com/mylesotoole/CompressForGooglePhotos/main/Compress%20For%20Google%20Photos.workflow/Contents/QuickLook/Preview.png width="600"></p>
+<p align="left"><img src=https://github.com/mylesotoole/CloudCompress/blob/main/Cloud%20Compress.workflow/Contents/QuickLook/Preview.png width="600"></p>
 
 <hr>
 
