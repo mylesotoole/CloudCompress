@@ -101,8 +101,6 @@
 						<string>0</string>
 					</dict>
 				</dict>
-				<key>conversionLabel</key>
-				<integer>0</integer>
 				<key>isViewVisible</key>
 				<integer>1</integer>
 				<key>location</key>
@@ -272,8 +270,6 @@
 						<string>4</string>
 					</dict>
 				</dict>
-				<key>conversionLabel</key>
-				<integer>0</integer>
 				<key>isViewVisible</key>
 				<integer>1</integer>
 				<key>location</key>
@@ -287,7 +283,7 @@
 	</array>
 	<key>connectors</key>
 	<dict>
-		<key>2A0D77CE-F364-4C1B-AEB8-8CB595D9135C</key>
+		<key>56B7707B-457C-4987-9228-EFF17AE9E51D</key>
 		<dict>
 			<key>from</key>
 			<string>58576E9F-D5E6-4BFC-B3C0-EFD5262F6319 - 58576E9F-D5E6-4BFC-B3C0-EFD5262F6319</string>
@@ -312,6 +308,8 @@
 		</array>
 		<key>backgroundColorName</key>
 		<string>blackColor</string>
+		<key>customImageFileExtension</key>
+		<string>icns</string>
 		<key>inputTypeIdentifier</key>
 		<string>com.apple.Automator.fileSystemObject.image</string>
 		<key>outputTypeIdentifier</key>
@@ -331,7 +329,7 @@
 		<key>serviceProcessesInput</key>
 		<false/>
 		<key>systemImageName</key>
-		<string>NSTouchBarColorPickerWheel</string>
+		<string>NSTouchBariCloud</string>
 		<key>useAutomaticInputType</key>
 		<false/>
 		<key>workflowTypeIdentifier</key>
